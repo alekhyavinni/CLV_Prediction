@@ -27,7 +27,7 @@ A machine learning model was developed and evaluated to predict Customer Lifetim
 Multiple datasets (marketing, engagement, customer and transaction) were integrated through feature engineering. This involved aggregating transaction amounts, the number of transactions, and the number of marketing campaigns responded to by customers. Adopted a descriptive analysis approach, addressing low-percentage missing values by filling them with the mode.
 Key metrics for calculating Customer Lifetime Value (CLV) were identified: Average Order Value, Average Purchase Frequency, Average Customer Value, and Average Customer Lifespan. These enhancements enable precise customer segmentation and targeted marketing strategies to optimize engagement and revenue.
 
-<img src="screenshots/ds1.png">
+<img src="screenshots/ds2.png">
 
 ## Key Insights Informing the Modeling Approach
 Statistical tests, RFM Analysis, Linear regression analysis, OLS regression and KNN regression were used to determine the significance of various factors on the target variable.
@@ -36,7 +36,7 @@ RFM Analysis and Segmentation:
 Based on the results from RFM analysis, it has provided a extensive view of customer segments, enabling targeted marketing strategies and improved customer relationship management. This analysis has identified 6 different customer segments like, Loyal customers, best customers, big spenders, frequent customers, at risk and other customers. Summary statistics for each segment were calculated, providing insights into customer behavior.
 
 
-<img src="screenshots/ds2.png">
+<img src="screenshots/ds1.png">
 
 ## Exploratory Data Analysis:
 Based on the results of heatmap, it shows a strong correlation between the monetary value and the frequency (0.92), as well as AvgOrderVal (0.25). The Customer lifespan is also very closely related to emails opened, site visits and clicks (all around 0.75), which shows the important role they play in customer longevity. Other features have weak correlations with monetary value.
