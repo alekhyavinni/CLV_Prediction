@@ -14,7 +14,7 @@
  
 </div>
 
-# User story
+
 To use machine learning models to predict Customer Lifetime Value (CLV) so that we can enhance customer segmentation and optimize targeted marketing strategies for increased profitability.
 
 # Business Summary
