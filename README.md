@@ -8,13 +8,13 @@ To use machine learning models to predict Customer Lifetime Value (CLV) so that 
 
 ## Technologies Used
 ```
-- **Python**: Programming language used for data processing, analysis, and model development.
-- **Pandas**: Library for data manipulation and analysis.
-- **NumPy**: Library for numerical computing.
-- **Scikit-learn**: Machine learning library for model development and evaluation.
-- **Matplotlib**: Library for data visualization.
-- **Seaborn**: Library for statistical data visualization.
-- **Jupyter Notebook**: Environment for interactive coding and analysis.
+Python: Programming language used for data processing, analysis, and model development.
+Pandas: Library for data manipulation and analysis.
+NumPy: Library for numerical computing.
+Scikit-learn: Machine learning library for model development and evaluation.
+Matplotlib: Library for data visualization.
+Seaborn: Library for statistical data visualization.
+Jupyter Notebook: Environment for interactive coding and analysis.
 ```
 
 
